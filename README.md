@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aravind Kalyan Sivakumar 👋
 
-<!--
-**aravind0815/aravind0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Machine Learning Enthusiast | Cloud Practitioner**
 
-Here are some ideas to get you started:
+🔭 I’m currently pursuing my Master’s in Data Science at NJIT (GPA: 3.83).  
+🌱 I love working on machine learning, deep learning, and cloud-based deployment projects.  
+👯 I’m looking to collaborate on real-world AI and data analytics projects.  
+🚀 Always excited to explore Large Language Models (LLMs) and Cloud ML Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming**: Python, SQL, R, Java, C++
+- **Machine Learning**: Scikit-learn, Deep Learning, NLP, Data Analytics
+- **Cloud**: AWS (Lambda, S3, SageMaker, API Gateway)
+- **Tools**: Power BI, Jenkins, JIRA, VS Code
+
+## 📈 Recent Projects
+- [Credit Card Fraud Detection](https://github.com/aravind0815/credit_card) - 95% precision SVM model
+- [Airfare Price Prediction](https://github.com/aravind0815/Airfare-Price-Prediction) - ML forecasting airline prices
+- [Wine Quality Prediction](https://github.com/aravind0815/WinePrediction) - Deployed predictive model on AWS
+- [Code Generation using StarCoder2](https://github.com/aravind0815/DeepLearning) - SQL instruction generation pipeline
+
+## 📫 How to reach me
+- Email: kalyanaravind007@gmail.com
+- LinkedIn: [linkedin.com/in/aravindkalyan007](https://linkedin.com/in/aravindkalyan007)
+
+---
+
