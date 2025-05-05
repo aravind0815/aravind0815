@@ -14,7 +14,7 @@
 - **Tools**: Power BI, Jenkins, JIRA, VS Code
 
 ## 📈 Recent Projects
-- [Credit Card Fraud Detection](https://github.com/aravind0815/credit_card) - 95% precision SVM model
+- [Financial Forecasting Dashboard](https://github.com/aravind0815/financial-forecasting-anomaly-detection) – Streamlit dashboard with KPIs, anomaly detection, and PostgreSQL/CSV integration
 - [Airfare Price Prediction](https://github.com/aravind0815/Airfare-Price-Prediction) - ML forecasting airline prices
 - [Wine Quality Prediction](https://github.com/aravind0815/WinePrediction) - Deployed predictive model on AWS
 - [Code Generation using StarCoder2](https://github.com/aravind0815/DeepLearning) - SQL instruction generation pipeline
